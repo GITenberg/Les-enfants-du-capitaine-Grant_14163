@@ -28,6 +28,8 @@ description: "In Search of the Castaways (French: Les Enfants du capitaine Grant
   \ another edition has the overall title \"Captain Grant's Children\" and has two\
   \ volumes subtitled \"The Mysterious Document\" and \"Among the Cannibals\".)\n\
   \ From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14163#Les-enfants-du-capitaine-Grant
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2004-11-26'
 gutenberg_type: Text
